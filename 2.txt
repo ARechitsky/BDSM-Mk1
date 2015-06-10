@@ -1,0 +1,19 @@
+read b
+save 100
+assign d1
+save d101
+'write d
+assign b1
+save d105
+assign &d101
+mul &d 105
+save d 101
+assign& d 105
+add b1
+save d 105
+sub & b 100
+goto b6
+assign & d 101
+mul &d 105
+write d
+nop

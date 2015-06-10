@@ -1,0 +1,21 @@
+assign   d1819043144              '0
+save     d100                  '1
+assign   d 1867980911              '2
+save     d 104                 '3
+assign   d 560229490          '4
+save     d 108                '5
+assign   w 3338                  '6
+save     d 112                  '7
+'comment
+assign   b 99                   '8
+save     b 0                    '9
+assign & b 0                   '10
+add b1                             '11
+save b0                         '12
+load b                           '13
+goto b 17                        '14
+assign 1                        '15
+goto b 19                      '16
+write c                         '17
+goto b 10                       '18
+nop                             '19
